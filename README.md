@@ -2,11 +2,11 @@
 
 ## Project description
 
-# This project works to summarize a week of encounters from a clinic - including patient ID, visit dates, and the systolic blood pressure. It also analyzes the systolic blood pressure and determines if the patient needs a follow-up appointment. It then checks the work and gives a score.
+This project works to summarize a week of encounters from a clinic - including patient ID, visit dates, and the systolic blood pressure. It also analyzes the systolic blood pressure and determines if the patient needs a follow-up appointment. It then checks the work and gives a score.
 
 ## Run
-# Run python3 clniic_report.py from this folder.
-python3 clinic_report.py
+Run python3 clniic_report.py from this folder.
+> python3 clinic_report.py
 
 ## Files
 
