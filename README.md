@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+# This project works to summarize a week of encounters from a clinic - including patient ID, visit dates, and the systolic blood pressure. It also analyzes the systolic blood pressure and determines if the patient needs a follow-up appointment. It then checks the work and gives a score.
 
 ## Run
-
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+# Run python3 clniic_report.py from this folder.
+python3 clinic_report.py
 
 ## Files
 
