@@ -1,0 +1,6 @@
+Usable encounters: 25 
+Skipped rows: 5 
+Patients seen: 25 
+Mean systolic: 135.88 
+Highest systolic: 186 
+Lowest systolic: 98

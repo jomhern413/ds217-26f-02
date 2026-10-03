@@ -1,0 +1,18 @@
+Cutoff: 130 
+Reason: I chose a systolic blood pressure of 130 mmHg because it is the lowest possible systolic blood pressure value where level 1 hypertension is diagnosed. 
+P002
+P005
+P006
+P009
+P011
+P014
+P015
+P018
+P020
+P006
+P022
+P023
+P025
+P011
+P028
+
